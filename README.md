@@ -35,9 +35,9 @@ You can use one of the following options to try out Ballerina.
 * [Ballerina by Example](https://ballerina.io/learn/by-example/) 
 * [Ballerina by Guide](https://ballerina.io/learn/by-guide/)
 
-## Download and install
+## Download and install!
 
-### Download the binary
+### Download the binary!
 
 You can download the Ballerina distribution at http://ballerina.io.
 
